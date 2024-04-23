@@ -1,0 +1,14 @@
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/bin/Debug/net8.0/Hello_World
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/bin/Debug/net8.0/Hello_World.deps.json
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/bin/Debug/net8.0/Hello_World.runtimeconfig.json
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/bin/Debug/net8.0/Hello_World.dll
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/bin/Debug/net8.0/Hello_World.pdb
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfoInputs.cache
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfo.cs
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.csproj.CoreCompileInputs.cache
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.dll
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/refint/Hello_World.dll
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.pdb
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.genruntimeconfig.cache
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/ref/Hello_World.dll
