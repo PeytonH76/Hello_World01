@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60cf7fcc-1c42-4ab5-b8b1-e7894787b50f" name="Changes" comment="" />
+    <list default="true" id="60cf7fcc-1c42-4ab5-b8b1-e7894787b50f" name="Changes" comment="Hello World" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hello_World/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -77,14 +78,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713906390573</updated>
-      <workItem from="1713906391644" duration="705000" />
+      <workItem from="1713906391644" duration="1009000" />
     </task>
+    <task id="LOCAL-00001" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1713907200032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713907200032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
   </component>
 </project>
