@@ -12,3 +12,4 @@
 /Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.pdb
 /Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.genruntimeconfig.cache
 /Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/ref/Hello_World.dll
+/Users/peytonhaws/Documents/AppliedProgramming/Hello_World/Hello_World/obj/Debug/net8.0/Hello_World.sourcelink.json
